@@ -1,14 +1,16 @@
 ---
 title: This is YAMT!
 layout: post
-categories: [Typography, Markdown, Tips]
+categories:
+  - Typography
+  - Markdown
+  - Tips
 image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+description: Welcome to YAMT - Yet Another Minimal Theme.
+published: true
 ---
 
-$$
-\int_a^b
-$$
+あああ
 
 Welcome to YAMT - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
 
